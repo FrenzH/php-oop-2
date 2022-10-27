@@ -13,8 +13,6 @@ Definire la carta di credito come classe e associarla all'utente
 require __DIR__ . '/classes/Products.php';
 
 
-$Friskies = new Products ()
-
 
 
 

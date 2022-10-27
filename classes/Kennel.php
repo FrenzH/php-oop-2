@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/classes/Products.php';
+require __DIR__ . '/Products.php';
 
 class Kennel extends Products{
 

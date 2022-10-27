@@ -1,10 +1,12 @@
 <?php
 
-require __DIR__ . '/classes/Products.php';
+require __DIR__ . '/Products.php';
 
 class Toy extends Products{
 
-    protected $genre = 'Toy';
+    public $genre = 'Game';
+    
+    public $material = 'plastic';
 
     
 
